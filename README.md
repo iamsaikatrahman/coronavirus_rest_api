@@ -1,16 +1,18 @@
-# coronavirus_rest_api
+# Coronavirus Rest API
 
-A new Flutter project.
+It is a rest API. From this API we can see total cases, total suspected Cases, total Confirmed Cases, total Deaths, and the total number of recovered coronavirus.
 
-## Getting Started
+Here I use 
 
-This project is a starting point for a Flutter application.
+1. Provider,
 
-A few resources to get you started if this is your first Flutter project:
+2. State management, 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3. SharedPreferences, 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. nCoV api service and more.
+
+## ScreenShot
+![coronavirusapi](https://user-images.githubusercontent.com/75200754/106880811-03bbbf80-6707-11eb-8af8-72220db757a4.png)
+
+
